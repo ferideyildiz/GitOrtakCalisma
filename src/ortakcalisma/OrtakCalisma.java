@@ -8,6 +8,7 @@ public class OrtakCalisma {
 		System.out.println("11:30 - master");
 		System.out.println("11:40 - uzak sunucu");
 				   
+
 	}
 
 }
